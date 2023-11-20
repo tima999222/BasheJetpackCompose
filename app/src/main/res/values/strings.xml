@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Игра Баше</string>
+    <string name="make_a_move">Сделать ход</string>
+    <string name="edit_hint">Введите количество предметов (1–3)</string>
+    <string name="items_in_deck">Предметов в стопке: %1$d</string>
+    <string name="bot_win">Победил бот</string>
+    <string name="player_win">Победил игрок</string>
+</resources>

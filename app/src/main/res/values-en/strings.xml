@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bashe Game</string>
+    <string name="make_a_move">Make a move</string>
+    <string name="edit_hint">Enter count of items(1-3)</string>
+    <string name="items_in_deck">Items in deck: %1$d</string>
+    <string name="bot_win">Bot win</string>
+    <string name="player_win">Player win</string>
+</resources>
